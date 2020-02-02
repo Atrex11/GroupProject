@@ -10,6 +10,7 @@ b)
 a)pdf file to text
 b)
 
+test
 
 
 game:
